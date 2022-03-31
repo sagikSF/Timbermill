@@ -31,3 +31,4 @@ hs_err_pid*
 /timbermill-local/target/*
 /.idea/*
 /timbermill-client/.settings/org.eclipse.ajdt.ui.prefs
+target/*
